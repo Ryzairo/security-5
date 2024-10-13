@@ -1,9 +1,13 @@
 # security-5
 
+De app werkt simpel: je typt je tekst in en klikt op Encrypt. om te decrypten moet je de encrypted text copy pasten.
+
+
 Stappen om app te starten:
 
 In de terminal: 
 pip install  cryptography
+
 pip install: jinja2
 
-om te decrypten moet je de encrypted text copy pasten.
+
